@@ -1,0 +1,1 @@
+Write component names in componentNames.txt each name on a new line. Then run creator.bat
